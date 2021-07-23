@@ -1,0 +1,5 @@
+rawdata/img_1.bmp 1 513 194 64 67
+rawdata/img_13083.bmp 1 513 194 65 66
+rawdata/img_17382.bmp 1 480 183 66 66
+rawdata/img_4440.bmp 1 501 191 70 67
+rawdata/img_8834.bmp 1 492 184 72 69

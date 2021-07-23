@@ -1,0 +1,1 @@
+opencv_createsamples.exe -vec data/positives.vec -w 20 -h 20

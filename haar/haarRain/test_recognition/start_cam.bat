@@ -1,0 +1,1 @@
+facedetect.exe --cascade="output.xml" 0

@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/pi/dev/Capstone2019/final_5/build/LaneDetector",
+  "command": "/usr/bin/c++   -I/home/pi/dev/Capstone2019/final_5/include -isystem /usr/local/include -isystem /usr/local/include/opencv  -Wall -Wextra -Wpedantic -g   -std=gnu++14 -o CMakeFiles/lanes.dir/demo.cpp.o -c /home/pi/dev/Capstone2019/final_5/LaneDetector/demo.cpp",
+  "file": "/home/pi/dev/Capstone2019/final_5/LaneDetector/demo.cpp"
+},
+{
+  "directory": "/home/pi/dev/Capstone2019/final_5/build/test",
+  "command": "/usr/bin/c++   -I/home/pi/dev/Capstone2019/final_5/test/../vendor/googletest/googletest/include -I/home/pi/dev/Capstone2019/final_5/include -I/home/pi/dev/Capstone2019/final_5/vendor/googletest/googletest/include -isystem /usr/local/include -isystem /usr/local/include/opencv  -Wall -Wextra -Wpedantic -g   -std=gnu++14 -o CMakeFiles/lanes-test.dir/main.cpp.o -c /home/pi/dev/Capstone2019/final_5/test/main.cpp",
+  "file": "/home/pi/dev/Capstone2019/final_5/test/main.cpp"
+},
+{
+  "directory": "/home/pi/dev/Capstone2019/final_5/build/test",
+  "command": "/usr/bin/c++   -I/home/pi/dev/Capstone2019/final_5/test/../vendor/googletest/googletest/include -I/home/pi/dev/Capstone2019/final_5/include -I/home/pi/dev/Capstone2019/final_5/vendor/googletest/googletest/include -isystem /usr/local/include -isystem /usr/local/include/opencv  -Wall -Wextra -Wpedantic -g   -std=gnu++14 -o CMakeFiles/lanes-test.dir/test.cpp.o -c /home/pi/dev/Capstone2019/final_5/test/test.cpp",
+  "file": "/home/pi/dev/Capstone2019/final_5/test/test.cpp"
+},
+{
+  "directory": "/home/pi/dev/Capstone2019/final_5/build/test",
+  "command": "/usr/bin/c++   -I/home/pi/dev/Capstone2019/final_5/test/../vendor/googletest/googletest/include -I/home/pi/dev/Capstone2019/final_5/include -I/home/pi/dev/Capstone2019/final_5/vendor/googletest/googletest/include -isystem /usr/local/include -isystem /usr/local/include/opencv  -Wall -Wextra -Wpedantic -g   -std=gnu++14 -o CMakeFiles/lanes-test.dir/__/LaneDetector/LaneDetector.cpp.o -c /home/pi/dev/Capstone2019/final_5/LaneDetector/LaneDetector.cpp",
+  "file": "/home/pi/dev/Capstone2019/final_5/LaneDetector/LaneDetector.cpp"
+},
+{
+  "directory": "/home/pi/dev/Capstone2019/final_5/build/vendor/googletest/googletest",
+  "command": "/usr/bin/c++   -I/home/pi/dev/Capstone2019/final_5/vendor/googletest/googletest/include -I/home/pi/dev/Capstone2019/final_5/vendor/googletest/googletest  -Wall -Wextra -Wpedantic -g   -Wall -Wextra -Wpedantic -g -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=gnu++14 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/pi/dev/Capstone2019/final_5/vendor/googletest/googletest/src/gtest_main.cc",
+  "file": "/home/pi/dev/Capstone2019/final_5/vendor/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/pi/dev/Capstone2019/final_5/build/vendor/googletest/googletest",
+  "command": "/usr/bin/c++   -I/home/pi/dev/Capstone2019/final_5/vendor/googletest/googletest/include -I/home/pi/dev/Capstone2019/final_5/vendor/googletest/googletest  -Wall -Wextra -Wpedantic -g   -Wall -Wextra -Wpedantic -g -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=gnu++14 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/pi/dev/Capstone2019/final_5/vendor/googletest/googletest/src/gtest-all.cc",
+  "file": "/home/pi/dev/Capstone2019/final_5/vendor/googletest/googletest/src/gtest-all.cc"
+}
+]

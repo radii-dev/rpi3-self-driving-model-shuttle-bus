@@ -1,0 +1,13 @@
+CascadeTrainer
+
+- OpenCV Haar 및 Cascade(Haar, LBP, HOG) 물체검출기를 학습시키기 위한 SW 도구
+- 샘플 생성, 학습, 성능테스트 기능 지원
+
+개발자:
+ - 다크 프로그래머 (http://darkpgmr.tistory.com)
+ - 2013. 6. 5
+
+관련 url:
+ - http://darkpgmr.tistory.com/70 (사용법 투토리얼)
+ - http://darkpgmr.tistory.com/73 (프로그램 다운로드)
+ 

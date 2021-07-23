@@ -1,0 +1,1 @@
+haarconv.exe data\cascade output.xml 20 20
